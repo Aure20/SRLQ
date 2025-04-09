@@ -1,0 +1,6 @@
+/conversion/__pycache__
+/conversion/runs
+*.ckpt
+conversion/best_job.json
+conversion/env_test.py
+conversion/script.py
